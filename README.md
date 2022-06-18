@@ -40,7 +40,7 @@
 
 ## Breast Cancer Prediction
 
-This was my first end to end data science project. I have trained several models to predict the likelihood of breast cancer when presented with industry specific inputs.
+I have trained several models to predict the likelihood of breast cancer when presented with industry specific inputs.
 
 First, I explored the dataset in Google Colab, and then trained multiple models using the publicly available [**UCI Mammographic Mass Dataset**](http://archive.ics.uci.edu/ml/datasets/mammographic+mass)
 
