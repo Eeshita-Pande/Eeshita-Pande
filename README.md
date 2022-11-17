@@ -3,7 +3,7 @@
 <h5 align="left">
  💰 I’m currently working on solving fintech problems - Commercial Lead at Cleo AI
 <h5 align="left">
- 💊 I’m currently learning about applications of ML in fintech, medicine and health
+ 💊 I’m currently learning about applications of ML in fintech, medicine and health as well as iOS (Swift) development
 <h5 align="left">
  🤔 Interested in fintech and longevity. Passionate about optimising health — both actual and financial!
   
