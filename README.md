@@ -1,7 +1,7 @@
 # Hi there - I am Eeshita 👋 
 
 <h5 align="left">
- 💰 I’m currently working on solving fintech problems - Commercial Lead at Cleo AI
+ 💰 I’m currently working on solving fintech problems - Product Monetization Lead at Cleo AI
 <h5 align="left">
  💊 I’m currently learning about applications of ML in fintech, medicine and health as well as iOS (Swift) development
 <h5 align="left">
