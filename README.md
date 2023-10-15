@@ -46,7 +46,7 @@ Thea currently has over 100 waitlist subscribers.
 
 ## CleoAI Widget
 
-![Demo](https://drive.google.com/file/d/1hFPjB9Ky4vkoxSHeIXffeHxhNVM-LmKO/view?usp=drive_link)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdkazA2c3hva2pnanpoeml2aTBxbDVwOGsxcWRqbmJtbnc3aWZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j2zukiDHoED1lGXdM3/giphy.gif)
 
 
 ## Breast Cancer Prediction
