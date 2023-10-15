@@ -1,7 +1,7 @@
 # Hi there - I am Eeshita 👋 
 
 <h5 align="left">
- 💰 I’m currently working on solving health and fintech problems - Building TheaAI, Product Monetization Lead at Cleo AI
+ 🌱 I’m currently working on solving health and fintech problems - Building TheaAI, Product Monetization Lead at Cleo AI
 <h5 align="left">
  💊 I’m currently working on applied AI in fintech and health, particularly building end-to-end applications for iOS (Swift)
 <h5 align="left">
@@ -42,7 +42,7 @@ This is an end to end project and I have been leading engineering, design, and m
 [Signup Website](https://getthea.ai/)
 Thea currently has over 100 waitlist subscribers. 
 
-![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21iZHp6ZjUyMG96Mzd0a2toanAwbW1yaG53aXl0ZGx0OGRvamhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXSJsV8X7RxYkP35I0/giphy.gif)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFqcmZham1pcnMyMXQyZjRsNnNnbXo0cWY2M3JsZzBnaWgwM3k2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tgb3FgabrlhLD4Knf/giphy.gif)
 
 ## Breast Cancer Prediction
 
