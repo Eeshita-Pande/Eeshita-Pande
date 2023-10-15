@@ -33,7 +33,7 @@
   
 # Projects
 
-##
+## TheaAI
 
 Thea is a personalized wellness companion who offers actionable health recommendations visually, through chat, and on a home screen widget. We want to simplify everyday health decisions for people not obsessed with optimizing health outcomes. 
 
