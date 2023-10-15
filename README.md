@@ -3,7 +3,7 @@
 <h5 align="left">
  🌱 I’m currently working on solving health and fintech problems - Building TheaAI, Product Monetization Lead at Cleo AI
 <h5 align="left">
- 💊 I’m currently working on applied AI in fintech and health, particularly building end-to-end applications for iOS (Swift)
+ 🤖 I’m currently using applied AI in fintech and health, particularly building end-to-end applications for iOS (Swift)
 <h5 align="left">
  🤔 Interested in health, longevity, and fintech. Passionate about optimising health — both actual and financial!
   
@@ -30,7 +30,7 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
   
-  
+
 # Projects
 
 ## TheaAI
