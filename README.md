@@ -33,14 +33,15 @@
   
 # Projects
 
-## TheaAI
-![Demo](https://getthea.ai/)
+## [TheaAI](https://getthea.ai/)
 
 Thea is a personalized wellness companion who offers actionable health recommendations visually, through chat, and on a home screen widget. We want to simplify everyday health decisions for people not obsessed with optimizing health outcomes. 
 
 This is an end to end project and I have been leading engineering, design, and marketing for TheaAI. I have built health models using Apple HealthKit to construct dynamic LLM prompts which are used to power the app (Thea - the primary avatar, chat, and widget). I have implemented NLP / LLM concepts such as retrieval augmentation from Scratch in Swift, instead of using a framework like LangChain. 
 
 Thea currently has over 100 waitlist subscribers. 
+
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21iZHp6ZjUyMG96Mzd0a2toanAwbW1yaG53aXl0ZGx0OGRvamhraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXSJsV8X7RxYkP35I0/giphy.gif)
 
 ## Breast Cancer Prediction
 
