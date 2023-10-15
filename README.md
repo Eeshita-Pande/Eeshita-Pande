@@ -10,8 +10,7 @@
 ### Languages
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img alt="Swift" src="https://img.shields.io/badge/SWIFT?style=flat-square&logoColor=orange
-" />
+<img alt="Swift" src="https://img.shields.io/badge/SWIFT-orange?style=flat-square" />
 
                                                                                            
 ### Data Science
