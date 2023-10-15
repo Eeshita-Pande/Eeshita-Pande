@@ -44,6 +44,11 @@ Thea currently has over 100 waitlist subscribers.
 
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFqcmZham1pcnMyMXQyZjRsNnNnbXo0cWY2M3JsZzBnaWgwM3k2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tgb3FgabrlhLD4Knf/giphy.gif)
 
+## CleoAI Widget
+
+![Demo](https://drive.google.com/file/d/1hFPjB9Ky4vkoxSHeIXffeHxhNVM-LmKO/view?usp=drive_link)
+
+
 ## Breast Cancer Prediction
 
 I have trained several models to predict the likelihood of breast cancer when presented with industry specific inputs.
