@@ -1,15 +1,17 @@
 # Hi there - I am Eeshita 👋 
 
 <h5 align="left">
- 💰 I’m currently working on solving fintech problems - Product Monetization Lead at Cleo AI
+ 💰 I’m currently working on solving health and fintech problems - Building TheaAI, Product Monetization Lead at Cleo AI
 <h5 align="left">
- 💊 I’m currently learning about applications of ML in fintech, medicine and health as well as iOS (Swift) development
+ 💊 I’m currently working on applied AI in fintech and health, particularly building end-to-end applications for iOS (Swift)
 <h5 align="left">
- 🤔 Interested in fintech and longevity. Passionate about optimising health — both actual and financial!
+ 🤔 Interested in health, longevity, and fintech. Passionate about optimising health — both actual and financial!
   
 ### Languages
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img alt="Swift" src="https://img.shields.io/badge/Swift-FFD43B?style=for-the-badge&logo=swift&logoColor=black" />
+
                                                                                            
 ### Data Science
 
