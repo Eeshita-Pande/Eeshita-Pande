@@ -46,6 +46,10 @@ Thea currently has over 100 waitlist subscribers.
 
 ## CleoAI Widget
 
+Came up with the idea for a spending widget, organised a small team to build the widget. 
+
+I built the widget in SwiftUI and worked with the other engineer to build a react-native bridge in order to fetch the data to populate the widget. 
+
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdkazA2c3hva2pnanpoeml2aTBxbDVwOGsxcWRqbmJtbnc3aWZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j2zukiDHoED1lGXdM3/giphy.gif)
 
 
